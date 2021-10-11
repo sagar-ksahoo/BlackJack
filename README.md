@@ -1,2 +1,3 @@
-# JsTut
-Simple tutorial projects using js,html,css
+# BlackJack
+A simple black-jack game
+
